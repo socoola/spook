@@ -1,0 +1,8 @@
+127.0.0.1 - - [03/Sep/2012:09:45:31 +0800] "OPTIONS rtsp://127.0.0.1:7070/webcam RTSP/1.0" 200 0 "-" "LibVLC/2.0.3 (LIVE555 Streaming Media v2011.12.23)"
+127.0.0.1 - - [03/Sep/2012:09:45:31 +0800] "DESCRIBE rtsp://127.0.0.1:7070/webcam RTSP/1.0" 404 0 "-" "LibVLC/2.0.3 (LIVE555 Streaming Media v2011.12.23)"
+127.0.0.1 - - [03/Sep/2012:09:45:31 +0800] "OPTIONS rtsp://127.0.0.1:7070 RTSP/1.0" 200 0 "-" "RealMedia Player Version 6.0.9.1235 (linux-2.0-libc6-i386-gcc2.95)"
+127.0.0.1 - - [03/Sep/2012:16:29:23 +0800] "OPTIONS rtsp://127.0.0.1:7070/webcam RTSP/1.0" 200 0 "-" "LibVLC/2.0.3 (LIVE555 Streaming Media v2011.12.23)"
+127.0.0.1 - - [03/Sep/2012:16:29:23 +0800] "DESCRIBE rtsp://127.0.0.1:7070/webcam RTSP/1.0" 200 122 "-" "LibVLC/2.0.3 (LIVE555 Streaming Media v2011.12.23)"
+127.0.0.1 - - [03/Sep/2012:16:29:23 +0800] "SETUP rtsp://127.0.0.1:7070/webcam/track0 RTSP/1.0" 200 0 "-" "LibVLC/2.0.3 (LIVE555 Streaming Media v2011.12.23)"
+127.0.0.1 - - [03/Sep/2012:16:29:23 +0800] "PLAY rtsp://127.0.0.1:7070/webcam/ RTSP/1.0" 200 0 "-" "LibVLC/2.0.3 (LIVE555 Streaming Media v2011.12.23)"
+127.0.0.1 - - [03/Sep/2012:16:31:02 +0800] "TEARDOWN rtsp://127.0.0.1:7070/webcam/ RTSP/1.0" 200 0 "-" "LibVLC/2.0.3 (LIVE555 Streaming Media v2011.12.23)"
